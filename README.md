@@ -1,0 +1,61 @@
+|<h2 align="left">Hi 👋! I'm Arash Taraz Jamshidi</h2>
+
+###
+
+<img align="right" height="150" src="https://b1763018.smushcdn.com/1763018/wp-content/uploads/2018/01/diseno-grafico-mitos-disenador-grafico-working.gif?lossy=1&strip=1&webp=1"  />
+
+###
+
+### 🚀 About Me
+I am a **Physics graduate** with a passion for **Quantum Information, Computational Physics, and Theoretical Physics**. My research interests lie in **quantum mechanics, entanglement measures, and numerical simulations**. I have worked on various projects involving **Python (Qiskit, NumPy, Matplotlib)** and **Mathematica**, leveraging computational methods to explore complex physical systems.
+
+🔭 **Current Focus:** Quantum Information & Computational Physics  
+📖 **Master's Aspirant:** Quantum Engineering  
+🎵 **Musician:** Setar, Tar, and Violin player  
+🇮🇹 **Languages:** English (C1), Italian (B2), Persian (Native)  
+
+---
+
+### 🛠 Skills & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo" />
+</div>
+
+###
+
+- **Physics & Simulation:** Quantum Mechanics, General Relativity, N-Body Simulations
+- **Software & Tools:** Mathematica, EEGLAB, ERPLAB, Origin, Overleaf
+- **Scientific Computing:** Quantum Circuits, Quantum Entanglement Simulations, Signal Processing (EEG)  
+ 
+---
+
+### 📌 Featured Projects
+🚀 **[Quantum Entanglement Volume Analysis](#)**  
+_Analyzed entanglement measures for two-qubit states using Python._  
+📌 Entanglement measures: PPT, Negativity, Concurrence, Horodecki boundary  
+📌 LHVM-based numerical simulations
+
+🌌 **[N-Body Problem Simulation](#)**  
+_Simulated gravitational interactions, including Mercury's relativistic perihelion precession._
+
+🎢 **[Phase Space Simulation of a Rotating Pendulum](#)**  
+_Studied the dynamics of a pendulum attached to a rotating disk._
+
+🔬 **[Mathematica Workshop for Physics](#)**  
+_Developed and instructed a workshop on computational physics using Mathematica._
+
+---
+
+### 📫 Connect with Me
+- **GitHub:** [github.com/arash-tjamshidi](https://github.com/arash-tjamshidi)
+- **Email:** arash.tjamshidi@gmail.com
+
+💡 Always eager to collaborate on open-source projects and research in quantum physics! Feel free to reach out!
