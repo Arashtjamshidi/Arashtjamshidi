@@ -1,4 +1,4 @@
-|<h2 align="left">Hi 👋! I'm Arash Taraz Jamshidi</h2>
+|<h2 align="left">Hi 👋! I'm Arash</h2>
 updating profile...
 ###
 
