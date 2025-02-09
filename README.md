@@ -1,6 +1,4 @@
 <h2 align="left">Hi 👋! I'm Arash</h2>
-updating profile...
-###
 
 <img align="right" height="150" src="https://b1763018.smushcdn.com/1763018/wp-content/uploads/2018/01/diseno-grafico-mitos-disenador-grafico-working.gif?lossy=1&strip=1&webp=1"  />
 
