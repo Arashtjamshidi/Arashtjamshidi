@@ -8,7 +8,8 @@
 I am a **Physics graduate** with a passion for **Quantum Information, Computational Physics, and Theoretical Physics**. My research interests lie in **quantum mechanics, entanglement measures, and numerical simulations**. I have worked on various projects involving **Python** and **Mathematica**, leveraging computational methods to explore complex physical systems.
 
 🔭 **Current Focus:** Quantum Information & Computational Physics  
-📖 **Master's Aspirant:** Theoretical Physics | Quantum Information | Complex Systems | Neuroscience
+📖 **Master's Aspirant:** Theoretical Physics | Quantum Information | Complex Systems | Neuroscience 
+
 🎵 **Musician:** Setar, Tar, and Violin player  
 🇮🇹 **Languages:** English (C1), Italian (B2), Persian (Native)  
 
