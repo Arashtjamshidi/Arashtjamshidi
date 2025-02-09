@@ -9,6 +9,7 @@ I am a **Physics graduate** with a passion for **Quantum Information, Computatio
 
 🔭 **Current Focus:** Quantum Information & Computational Physics  
 📖 **Master's Aspirant:** Theoretical Physics | Quantum Information | Complex Systems | Neuroscience 
+
 🎵 **Musician:** Setar, Tar, and Violin player  
 🇮🇹 **Languages:** English (C1), Italian (B2), Persian (Native)  
 
