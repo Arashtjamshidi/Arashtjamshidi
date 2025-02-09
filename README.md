@@ -14,9 +14,6 @@ I am a **Physics graduate** with a passion for **Quantum Information, Computatio
 🇮🇹 **Languages:** English (C1), Italian (B2), Persian (Native)  
 
 
-### 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arashtjamshidi&layout=compact&theme=radical)
-
 ---
 
 ### 🛠 Skills & Tools
@@ -31,6 +28,10 @@ I am a **Physics graduate** with a passion for **Quantum Information, Computatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo" />
 </div>
+
+
+### 📊 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arashtjamshidi&layout=compact&theme=radical)
 
 
 ### 📫 Connect with Me
