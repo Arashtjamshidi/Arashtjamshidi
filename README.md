@@ -10,7 +10,7 @@ updating profile...
 I am a **Physics graduate** with a passion for **Quantum Information, Computational Physics, and Theoretical Physics**. My research interests lie in **quantum mechanics, entanglement measures, and numerical simulations**. I have worked on various projects involving **Python** and **Mathematica**, leveraging computational methods to explore complex physical systems.
 
 🔭 **Current Focus:** Quantum Information & Computational Physics  
-📖 **Master's Aspirant:** Quantum Engineering  
+📖 **Master's Aspirant:  
 🎵 **Musician:** Setar, Tar, and Violin player  
 🇮🇹 **Languages:** English (C1), Italian (B2), Persian (Native)  
 
@@ -35,23 +35,6 @@ I am a **Physics graduate** with a passion for **Quantum Information, Computatio
 - **Software & Tools:** Mathematica, EEGLAB, ERPLAB, Origin, Overleaf
 - **Scientific Computing:** Quantum Circuits, Quantum Entanglement Simulations, Signal Processing (EEG)  
  
----
-
-### 📌 Featured Projects
-🚀 **[Quantum Entanglement Volume Analysis](#)**  
-_Analyzed entanglement measures for two-qubit states using Python._  
-📌 Entanglement measures: PPT, Negativity, Concurrence, Horodecki boundary  
-📌 LHVM-based numerical simulations
-
-🌌 **[N-Body Problem Simulation](#)**  
-_Simulated gravitational interactions, including Mercury's relativistic perihelion precession._
-
-🎢 **[Phase Space Simulation of a Rotating Pendulum](#)**  
-_Studied the dynamics of a pendulum attached to a rotating disk._
-
-🔬 **[Mathematica Workshop for Physics](#)**  
-_Developed and instructed a workshop on computational physics using Mathematica._
-
 ---
 
 ### 📫 Connect with Me
