@@ -1,4 +1,4 @@
-|<h2 align="left">Hi 👋! I'm Arash</h2>
+<h2 align="left">Hi 👋! I'm Arash</h2>
 updating profile...
 ###
 
@@ -10,7 +10,7 @@ updating profile...
 I am a **Physics graduate** with a passion for **Quantum Information, Computational Physics, and Theoretical Physics**. My research interests lie in **quantum mechanics, entanglement measures, and numerical simulations**. I have worked on various projects involving **Python** and **Mathematica**, leveraging computational methods to explore complex physical systems.
 
 🔭 **Current Focus:** Quantum Information & Computational Physics  
-📖 **Master's Aspirant:  
+📖 **Master's Aspirant:**  
 🎵 **Musician:** Setar, Tar, and Violin player  
 🇮🇹 **Languages:** English (C1), Italian (B2), Persian (Native)  
 
@@ -29,13 +29,6 @@ I am a **Physics graduate** with a passion for **Quantum Information, Computatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo" />
 </div>
 
-###
-
-- **Physics & Simulation:** Quantum Mechanics, General Relativity, N-Body Simulations
-- **Software & Tools:** Mathematica, EEGLAB, ERPLAB, Origin, Overleaf
-- **Scientific Computing:** Quantum Circuits, Quantum Entanglement Simulations, Signal Processing (EEG)  
- 
----
 
 ### 📫 Connect with Me
 - **Email:** arash.tjamshidi@gmail.com
