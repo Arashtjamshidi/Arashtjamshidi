@@ -15,7 +15,7 @@ I am a **Physics graduate** with a passion for **Quantum Information, Computatio
 
 
 ### 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arashtjamshidi&layout=compact&theme=radical)
 
 ---
 
