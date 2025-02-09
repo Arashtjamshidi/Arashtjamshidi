@@ -7,7 +7,7 @@ updating profile...
 ###
 
 ### 🚀 About Me
-I am a **Physics graduate** with a passion for **Quantum Information, Computational Physics, and Theoretical Physics**. My research interests lie in **quantum mechanics, entanglement measures, and numerical simulations**. I have worked on various projects involving **Python (Qiskit, NumPy, Matplotlib)** and **Mathematica**, leveraging computational methods to explore complex physical systems.
+I am a **Physics graduate** with a passion for **Quantum Information, Computational Physics, and Theoretical Physics**. My research interests lie in **quantum mechanics, entanglement measures, and numerical simulations**. I have worked on various projects involving **Python** and **Mathematica**, leveraging computational methods to explore complex physical systems.
 
 🔭 **Current Focus:** Quantum Information & Computational Physics  
 📖 **Master's Aspirant:** Quantum Engineering  
@@ -55,7 +55,6 @@ _Developed and instructed a workshop on computational physics using Mathematica.
 ---
 
 ### 📫 Connect with Me
-- **GitHub:** [github.com/arash-tjamshidi](https://github.com/arash-tjamshidi)
 - **Email:** arash.tjamshidi@gmail.com
 
 💡 Always eager to collaborate on open-source projects and research in quantum physics! Feel free to reach out!
