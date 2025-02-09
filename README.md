@@ -13,6 +13,10 @@ I am a **Physics graduate** with a passion for **Quantum Information, Computatio
 🎵 **Musician:** Setar, Tar, and Violin player  
 🇮🇹 **Languages:** English (C1), Italian (B2), Persian (Native)  
 
+
+### 📊 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+
 ---
 
 ### 🛠 Skills & Tools
