@@ -5,7 +5,7 @@
 ###
 
 ### 🚀 About Me
-I am a **Physics graduate** with a passion for **Quantum Information, Computational Physics, and Theoretical Physics**. My research interests lie in **quantum mechanics, entanglement measures, and numerical simulations**.
+I am a **Physics graduate** with a passion for **Quantum Information, Computational Physics, and Theoretical Physics**.
 
 🔭 **Current Focus:** Quantum Information & Computational Physics  
 📖 **Master's Aspirant:** Theoretical Physics | Quantum Information | Complex Systems | Neuroscience 
